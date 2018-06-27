@@ -53,6 +53,7 @@ Estatisticas são muito importantes, principalmente quando se trabalha em um `ti
 ![Report](/images/5.png)
 
 PDF sample
+
 ![Export Report](/images/6.png)
 
 
