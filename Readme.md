@@ -1,4 +1,4 @@
-# Gerenciamento de tempo com o toggle
+# Gerenciamento de tempo com o [toggl](https://toggl.com/login/)
 
 ### Desenvolvendo um padrão para projetos em nosso ambiente de trabalho.
 Aqui há uma pequena explanação do que iremos utilizar com maior frequência em nosso dia a dia, assim como uma definição acordada em equipe do que seria melhor utilizar em `tags`, `clientes`, e `projetos`.  
